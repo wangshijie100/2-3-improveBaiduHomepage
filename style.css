@@ -1,0 +1,98 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.main_page{
+	text-align: center;
+}
+#header{
+	height: 40px;
+	padding: 10px 0px 0px 0px;
+}
+#nav{
+	float: right;
+}
+#nav ul{
+	padding: 0px 5px 0px 0px;
+}
+#nav ul li{
+	list-style: none;
+	float: left;
+	margin: 10px;
+}
+.a_nav{
+	color: #333;
+	font-weight: bold;
+	font-size: 13px;
+}
+.li_more{
+	background: #38F;
+	width: 60px;
+	height: 23px;
+	text-align: center;
+}
+.a_more{
+	color: #FFF;
+	font-size: 13px;
+	text-decoration: none;
+}
+.logo{
+	margin-top: 23px;
+	margin-bottom: 45px;
+}
+#form{
+	width: 800px;
+	height: 50px;
+	position: relative;
+	left: 50%;
+	top:50%;
+	margin-left: -320px;
+	margin-top:-25px;
+}
+#input_text{
+	width: 540px;
+	height: 36px;
+	border: 1px solid #b6b6b6;
+	float: left;
+}
+#input_submit{
+	width: 100px;
+	height: 38px;
+	border:none;
+	background: #3385FF;
+	font-size: 16px;
+	color: #FFF;
+	float: left;	
+}
+#footer{
+	height: 100px;
+	text-align: center;
+	font: 12px arial;
+	margin-top: 240px;
+	position: relative;
+}
+#footer ul{
+	width: 300px;
+	margin: 0 auto;
+	position: relative;
+}
+#footer ul li{
+	list-style: none;
+	float: left;
+	margin: 10px;
+}
+.div_1 a{
+	color: #00C;
+}
+.div_2 a{
+	color: #666;
+}
+.icon{
+	width: 14px;
+	height: 17px;
+	display: inline-block;
+	overflow: hidden;
+	background: transparent url("https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/img/icons_45de3f02.png") no-repeat scroll -600px -96px;
+	position: relative;
+	top: 3px;
+}
